@@ -1,0 +1,1 @@
+int globalisValtozo = 3;
